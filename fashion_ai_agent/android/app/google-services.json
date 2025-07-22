@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81387070590",
+    "project_id": "fashion-ai-agent",
+    "storage_bucket": "fashion-ai-agent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81387070590:android:2f960cfce0b4be9e01642f",
+        "android_client_info": {
+          "package_name": "com.example.fashion_ai_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81387070590-f49620k1elqkthgioudlhkp23uft6i1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5fbdb-7rrfEq_KYrX3PuJwzPAda_Des"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81387070590-f49620k1elqkthgioudlhkp23uft6i1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
